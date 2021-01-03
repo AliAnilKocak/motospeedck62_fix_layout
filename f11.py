@@ -1,1 +1,1 @@
-keyboard.send_keys("<f11>")
+keyboard.send_keys("<f5>")
